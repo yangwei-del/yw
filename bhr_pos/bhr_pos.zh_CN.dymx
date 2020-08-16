@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1+NK6TXXM5PP</MasterId>
+  <Id>1+NK6TXXM5PP</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>bhr_pos</Number>
+      <PkId>1+PZPMS/5667</PkId>
+      <DataXml>
+        <FormMetadata/>
+      </DataXml>
+      <Name>pos</Name>
+      <Id>1+NK6TXXM5PP</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>bhr_pos</Number>
+      <PkId>1+PZPMV1TVVW</PkId>
+      <DataXml>
+        <EntityMetadata/>
+      </DataXml>
+      <Name>pos</Name>
+      <Id>1+NK6TXXM5PP</Id>
+      <LocaleId>zh_CN</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1597459626341</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>

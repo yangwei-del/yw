@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DeployMetadata>
+  <MasterId>1+NK6TXXM5PP</MasterId>
+  <Id>1+NK6TXXM5PP</Id>
+  <DesignMetas>
+    <DesignFormMetaL>
+      <Number>bhr_pos</Number>
+      <PkId>1+PZPMSCNUZ9</PkId>
+      <DataXml>
+        <FormMetadata>
+          <Name>pos</Name>
+          <Items>
+            <FormAp action="edit" oid="db6d1d5500007bac">
+              <Name>pos</Name>
+            </FormAp>
+            <FlexPanelAp action="edit" oid="G38lwz0w8f">
+              <Name>按钮区</Name>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="X2rDCwZzcZ">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="PMAg5emy1E">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="obsnZCsihh">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="E95F1MQafn">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <VectorAp action="edit" oid="dweGGvnPtP">
+              <Name>字体图标</Name>
+            </VectorAp>
+            <LabelAp action="edit" oid="J2OoGtNVSi">
+              <Name>实际申请</Name>
+            </LabelAp>
+            <ButtonAp action="edit" oid="sCLMDn789P">
+              <Name>取消</Name>
+            </ButtonAp>
+            <ButtonAp action="edit" oid="3Y1T8YDayb">
+              <Name>确定</Name>
+            </ButtonAp>
+            <FieldAp action="edit" oid="7HZQAFEiLa">
+              <Name>请假单号</Name>
+            </FieldAp>
+            <FieldAp action="edit" oid="6S0xsuJWSC">
+              <Name>请假时间</Name>
+            </FieldAp>
+            <FieldAp action="edit" oid="ZTTs5UpZvW">
+              <Name>实际请假天数</Name>
+            </FieldAp>
+            <FieldAp action="edit" oid="oHGCEWC1Bm">
+              <Name>销假天数</Name>
+            </FieldAp>
+            <FieldAp action="edit" oid="bygTcWauaX">
+              <Name>销假说明</Name>
+            </FieldAp>
+            <FlexPanelAp action="edit" oid="jk2rZS4j4a">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="ha5ACo9z0x">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="ks18bsCF2L">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <BarItemAp action="edit" oid="IZa0nOihu2">
+              <Name>新增</Name>
+            </BarItemAp>
+            <BarItemAp action="edit" oid="e1woOIATYV">
+              <Name>审核</Name>
+            </BarItemAp>
+            <BarItemAp action="edit" oid="DFaxwNvZ24">
+              <Name>禁用</Name>
+            </BarItemAp>
+            <BarItemAp action="edit" oid="vimJobvoPO">
+              <Name>退出</Name>
+            </BarItemAp>
+            <BarItemAp action="edit" oid="eszxqOBZM3">
+              <Name>擦看流程图</Name>
+            </BarItemAp>
+            <LabelAp action="edit" oid="eJjLowyu94">
+              <Name>假</Name>
+            </LabelAp>
+            <LabelAp action="edit" oid="r64kZ7FTZ7">
+              <Name>期</Name>
+            </LabelAp>
+            <LabelAp action="edit" oid="v93VChpSZD">
+              <Name>看</Name>
+            </LabelAp>
+            <LabelAp action="edit" oid="2KVJrC2RdM">
+              <Name>版</Name>
+            </LabelAp>
+            <ToolbarAp action="edit" oid="QlfswH9ZCh">
+              <Name>工具栏</Name>
+            </ToolbarAp>
+            <FlexPanelAp action="edit" oid="6kFmtKFJVW">
+              <Name>申请人信息</Name>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="LmR9h32CRq">
+              <Name>销假信息</Name>
+            </FlexPanelAp>
+            <LabelAp action="edit" oid="43QzFr4E3E">
+              <Name>年假</Name>
+            </LabelAp>
+            <LabelAp action="edit" oid="twIvgtmJNh">
+              <Name>0</Name>
+            </LabelAp>
+            <FieldAp action="edit" oid="bObq2WAdmG">
+              <Name>销假单号</Name>
+            </FieldAp>
+            <FieldAp action="edit" oid="aijDN9WWky">
+              <Name>申请人</Name>
+            </FieldAp>
+            <LabelAp action="edit" oid="nXOBWjIxYl">
+              <Name>电话</Name>
+            </LabelAp>
+            <LabelAp action="edit" oid="P3k5TrBMBq">
+              <Name>编码</Name>
+            </LabelAp>
+            <FlexPanelAp action="edit" oid="W3ASCT07oI">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="7PESMWxMN2">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="f1vzilPHQk">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <FlexPanelAp action="edit" oid="vyK7H3s7Gx">
+              <Name>Flex面板</Name>
+            </FlexPanelAp>
+            <FieldAp action="edit" oid="Acrw8RNA9g">
+              <Name>部门</Name>
+            </FieldAp>
+            <FieldAp action="edit" oid="77FwYi5oA2">
+              <Name>公司</Name>
+            </FieldAp>
+            <FieldAp action="edit" oid="HLrp7Jfj3S">
+              <Name>销假时间</Name>
+            </FieldAp>
+            <LabelAp action="edit" oid="7QyRoyKlaV">
+              <Name>调休假</Name>
+            </LabelAp>
+            <LabelAp action="edit" oid="Xvgv4g4phJ">
+              <Name>0</Name>
+            </LabelAp>
+          </Items>
+        </FormMetadata>
+      </DataXml>
+      <Name>pos</Name>
+      <Id>1+NK6TXXM5PP</Id>
+      <LocaleId>en_US</LocaleId>
+    </DesignFormMetaL>
+    <DesignEntityMetaL>
+      <Number>bhr_pos</Number>
+      <PkId>1+PZPMV5F=1D</PkId>
+      <DataXml>
+        <EntityMetadata>
+          <Name>pos</Name>
+          <Items>
+            <MainEntity action="edit" oid="db6d1d5500007cac">
+              <Operations>
+                <Operation action="edit" oid="ff824eb2000018ac">
+                  <Name>关闭</Name>
+                </Operation>
+              </Operations>
+              <Name>pos</Name>
+            </MainEntity>
+            <TextField action="edit" oid="aijDN9WWky">
+              <Name>申请人</Name>
+            </TextField>
+            <TextField action="edit" oid="7HZQAFEiLa">
+              <Name>请假单号</Name>
+            </TextField>
+            <UserField action="edit" oid="Acrw8RNA9g">
+              <Name>部门</Name>
+            </UserField>
+            <DateTimeField action="edit" oid="6S0xsuJWSC">
+              <Name>请假时间</Name>
+            </DateTimeField>
+            <UserField action="edit" oid="77FwYi5oA2">
+              <Name>公司</Name>
+            </UserField>
+            <TextField action="edit" oid="bObq2WAdmG">
+              <Name>销假单号</Name>
+            </TextField>
+            <DateTimeField action="edit" oid="HLrp7Jfj3S">
+              <Name>销假时间</Name>
+            </DateTimeField>
+            <TextField action="edit" oid="ZTTs5UpZvW">
+              <Name>实际请假天数</Name>
+            </TextField>
+            <TextField action="edit" oid="oHGCEWC1Bm">
+              <Name>销假天数</Name>
+            </TextField>
+            <TextField action="edit" oid="bygTcWauaX">
+              <EmptyText>未填写</EmptyText>
+              <Name>销假说明</Name>
+            </TextField>
+          </Items>
+        </EntityMetadata>
+      </DataXml>
+      <Name>pos</Name>
+      <Id>1+NK6TXXM5PP</Id>
+      <LocaleId>en_US</LocaleId>
+    </DesignEntityMetaL>
+  </DesignMetas>
+  <Version>1597459626341</Version>
+  <BOSVersion>1.0</BOSVersion>
+</DeployMetadata>
